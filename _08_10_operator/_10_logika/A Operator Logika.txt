@@ -1,0 +1,3 @@
+Operator Logika
+● Operator logika adalah operator untuk dua buah data boolean
+● Hasil dari operator logika adalah boolean lagi

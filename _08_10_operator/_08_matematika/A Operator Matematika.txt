@@ -1,0 +1,7 @@
+Operator Matematika
+
+● JavaScript mendukung banyak sekali operator Matematika untuk tipe data Number, seperti :
+● Operator Aritmatika
+● Operator Augmented Assignments
+● Operator Unary
+● Dan lain-lain
