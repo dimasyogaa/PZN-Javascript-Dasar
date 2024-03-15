@@ -1,0 +1,7 @@
+isNaN() Function
+
+● Kadang kita ingin mengecek apakah sebuah number itu NaN atau bukan
+
+● Untuk melakukan pengecekan tersebut, kita bisa menggunakan function isNaN(number)
+
+● Hasil nya adalah berupa data boolean, true jika NaN, false jika bukan

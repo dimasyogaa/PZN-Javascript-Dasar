@@ -1,0 +1,9 @@
+Konversi String dan Number
+
+● Saat membuat aplikasi, kadang kita input dari pengguna selalu dalam bentuk String
+
+● Sedangkan kita ingin mengelola datanya dalam bentuk Number
+
+● Maka sangat disarankan untuk melakukan konversi tipe data
+
+
