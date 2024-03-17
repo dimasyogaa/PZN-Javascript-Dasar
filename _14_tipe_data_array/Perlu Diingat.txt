@@ -1,0 +1,7 @@
+Perlu Diingat
+
+● Data di dalam Array tidak ada batasannya harus data apa
+
+● Jadi kita bisa memasukkan data apapun ke dalam Array
+
+● Bahkan kita juga bisa memasukkan Array ke dalam Array jika kita mau

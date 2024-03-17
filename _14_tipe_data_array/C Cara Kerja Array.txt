@@ -1,0 +1,8 @@
+Cara Kerja Array
+
+● Setiap data di Array akan disimpan dalam posisi berurutan, dimana urutan pertama dimulai dari
+nomor 0
+
+● Setiap kita menambah data ke Array, otomatis data akan disimpan di urutan terakhir
+
+● Urutan di Array, kita sebut dengan index
