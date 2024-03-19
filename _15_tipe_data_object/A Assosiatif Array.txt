@@ -1,0 +1,12 @@
+Associative Array
+
+● Di bahasa pemrograman lain seperti PHP, kita bisa menggunakan index beruba tipe data lain selain
+number, misal string
+
+● Fitur ini biasanya disebut associative array atau hash
+
+● Di JavaScript associative array tidak didukung.
+
+● Jika kita memaksa memasukkan data bukan number di index Array, maka JavaScript akan merubah
+tipe data Array tersebut menjadi object, dan ini bisa berbahaya, karena beberapa operasi di array
+mungkin bisa berubah hasilnya
