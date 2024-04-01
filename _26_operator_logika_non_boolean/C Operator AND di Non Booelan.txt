@@ -1,0 +1,7 @@
+Operator AND (&&) di Non Boolean (Kebalikan dari OR)
+
+● Operator logika AND (&&), membaca dari kiri ke kanan.
+
+● Operator ini akan mengambil nilai pertama yang falsy.
+
+● Jika tidak ada satupun yang bernilai falsy, maka yang terakhir yang akan diambil
