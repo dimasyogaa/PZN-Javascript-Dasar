@@ -1,4 +1,4 @@
-For In (Property/Index)
+For In (Property/Index, Can Object)
 
 ● For In merupakan perulangan for yang digunakan untuk mengiterasi seluruh data property di
 object atau index di array
