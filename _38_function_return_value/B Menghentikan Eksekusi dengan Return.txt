@@ -1,0 +1,5 @@
+Menghentikan Eksekusi dengan Return
+
+● Saat kita menggunakan kata kunci return, maka kode setelah return tersebut tidak akan dieksekusi
+
+● Kita bisa menggunakan return untuk menghentikan eksekusi sebuah function
